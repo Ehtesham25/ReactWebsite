@@ -1,0 +1,33 @@
+.jumbotron{
+    background-color: #F14032;
+    color :#fff;
+        height: 350px;
+}
+.main_head{
+    text-align: center;
+    padding-top : 90px;
+    font-family: cursive;
+}
+.input_div{
+    width: 500px;
+    
+}
+.header_input{
+    font-size: 20px;
+    font-weight: 500;
+    font-family: cursive;
+    text-transform: capitalize;
+    height: 34px;
+    margin-top: 17px;
+}
+.btn:hover{
+    background-color: greenyellow;
+    color:#fff;
+}
+.btn{
+    text-align: center;
+    font-family: cursive;
+    margin: 10px;
+    height: 47px;
+    margin-top:15px;
+}
