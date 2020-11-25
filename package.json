@@ -1,6 +1,5 @@
 {
-  "homepage": "http://Ehtesham25.github.io/responsiveWebSite",
-  "name": "myfirstproject",
+  "name": "responsive",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
