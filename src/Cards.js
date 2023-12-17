@@ -3,7 +3,6 @@ import react from "react";
 
 import Sdata from "./sdata";
 
-
 const CardFunc = () => {
     render()
     {
