@@ -54,5 +54,5 @@ const CardFunc = () => {
            
         </>)  
 }
-}
+};
 export default CardFunc;
