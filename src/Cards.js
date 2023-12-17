@@ -10,7 +10,6 @@ const CardFunc = () => {
         function Webseries(props)
       
         {
-            console.log(props);
             return(<>
                 <div className="cards">
 
