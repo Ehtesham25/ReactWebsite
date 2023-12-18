@@ -26,5 +26,5 @@ const DecrementFunc =()=>{
         <button onClick={DecrementFunc}>Decreament</button>
         </>
     );
-}
+};
 export default Challenges;
