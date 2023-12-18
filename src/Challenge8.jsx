@@ -6,6 +6,7 @@ const inrecmentFunc =()=>{
 
     setCount(Count+1);
 }
+
 const DecrementFunc =()=>{
     if(Count>0)
     {
