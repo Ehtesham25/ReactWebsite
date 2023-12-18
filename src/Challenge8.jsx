@@ -1,6 +1,6 @@
 import React ,{useState} from "react";
 const Challenges =()=>{
-   const [Count, setCount] = useState(0)
+   const [Count, setCount] = useState(0);
 
 const inrecmentFunc =()=>{
 
