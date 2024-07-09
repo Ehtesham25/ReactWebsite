@@ -8,7 +8,6 @@ return(
     <>
         <Common text="Wellcome to About" imgsr={about}/>
     </>
-
 )
 }
 export default About;
