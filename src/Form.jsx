@@ -9,7 +9,7 @@ const App =()=>
 
 
     // const[FullName, SetFullName]= useState("");
-    // const[lname ,Setlname]= useState("");
+
     // const[LastName, SetLastName]= useState("");
 
    const ChangeEventFunc =(e)=>{
