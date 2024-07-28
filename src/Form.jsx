@@ -8,7 +8,7 @@ const App =()=>
     });
 
 
-    // const[FullName, SetFullName]= useState("");
+    // con
     // const[LastName, SetLastName]= useState("");
 
    const ChangeEventFunc =(e)=>{
