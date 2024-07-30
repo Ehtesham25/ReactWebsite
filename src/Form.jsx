@@ -7,10 +7,6 @@ const App =()=>
         lname:" "
     });
 
-
-
-    
-
    const ChangeEventFunc =(e)=>{
      
     //SetName(e.target.value)
