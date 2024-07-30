@@ -3,7 +3,7 @@ import react,{useState} from "react";
 const LogForm =()=>{
 
     // const[nameField, setNameField]= useState();
-    // const[submitName, setSubmitName]= useState();
+
     const[SubValue, setPassField]= useState({
         fName:'',
         password: '',
