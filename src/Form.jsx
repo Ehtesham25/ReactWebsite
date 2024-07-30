@@ -9,7 +9,7 @@ const App =()=>
 
    const ChangeEventFunc =(e)=>{
      
-    //SetName(e.target.value)
+
     console.log(e.target.value);
     var value= e.target.value;
     var name= e.target.name;
