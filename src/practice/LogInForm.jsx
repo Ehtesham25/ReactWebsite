@@ -8,9 +8,7 @@ const LogForm =()=>{
         fName:'',
         password: '',
         email:''
-    });
-
-    
+    });  
     const FieldChangeFunc=(e)=>{
        var name= e.target.name;
        var value= e.target.value;
