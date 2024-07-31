@@ -2,8 +2,6 @@ import react,{useState} from "react";
 
 const LogForm =()=>{
 
- 
-
     const[SubValue, setPassField]= useState({
         fName:'',
         password: '',
