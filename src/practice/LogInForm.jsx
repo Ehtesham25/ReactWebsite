@@ -9,7 +9,7 @@ const LogForm =()=>{
         password: '',
         email:''
     });
-   //const[submitPass, setSubmitPass]= useState();
+
     
     const FieldChangeFunc=(e)=>{
        var name= e.target.name;
