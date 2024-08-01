@@ -11,7 +11,6 @@ const CardFunc = () => {
         {
             return(<>
                 <div className="cards">
-
                     <div className="card">
                         <img src={props.imgsrc} alt="Failed to Load.." className="Card_image"/>
                         <div className="card_Info">
