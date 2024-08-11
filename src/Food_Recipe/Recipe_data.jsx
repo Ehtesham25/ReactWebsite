@@ -1,6 +1,5 @@
 import React from "react";
  
-
 const Recipe =(props)=>{
  // const{respi}= props;
     return(
