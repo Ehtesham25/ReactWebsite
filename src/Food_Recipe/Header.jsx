@@ -13,7 +13,7 @@ const Header =(props)=>{
    <button onClick={props.Onclikcfunc} className="btn-dark btn-lg btn">SearchFood</button>
   </div>
 </div>
-          </div>        
+    </div>        
 
         </>
     )
