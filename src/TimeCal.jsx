@@ -1,5 +1,5 @@
 import react from "react";
-import  {useState} from "react";
+import react, {useState} from "react";
 
 const App =()=>{
 var GetDate= new Date().toLocaleTimeString()
