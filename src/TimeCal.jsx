@@ -5,7 +5,6 @@ const App =()=>{
 var GetDate= new Date().toLocaleTimeString()
  const [gDate, setDate] = useState(GetDate);
 
-
  const DateFunc=()=> {
     var GetDate= new Date().toLocaleTimeString();
     setDate(GetDate);
