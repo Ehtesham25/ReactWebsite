@@ -45,7 +45,6 @@ return(
                          text={itemVal}/>
                         })
                         }
-                    
                 </ol>
             </div>
         </div>
