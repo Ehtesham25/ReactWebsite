@@ -2,7 +2,7 @@ import React ,{useState } from "react";
 
 import ToDoApp from "./ToDoLists";
 
-const ToDoList =()=>{
+const ToDoList =()=> {
  const[OnchangeName, setChangeName] = useState()
  const[addItem, setItem]= useState([]);
     const OnchangeFunc=(e)=>{
