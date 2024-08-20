@@ -1,5 +1,4 @@
 import { render } from "@testing-library/react";
-import react from "react";
 import React, {useState,setState } from "react";
 
 // function App (){
