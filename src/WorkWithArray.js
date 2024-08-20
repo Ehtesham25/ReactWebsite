@@ -15,10 +15,6 @@ import React, {useState } from "react";
 // }
 
 const App =()=>{
-
-
-
-
      const[date, SetCount]= useState(123);
      const TimeFunc =()=>
      {
