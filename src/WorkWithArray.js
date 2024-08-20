@@ -1,5 +1,5 @@
 import { render } from "@testing-library/react";
-import React, {useState,setState } from "react";
+import React, {useState } from "react";
 
 // function App (){
 //     var list=['javascript','C#','ASP','HTML'];
