@@ -10,8 +10,7 @@ import React, {useState } from "react";
 //            {console.log(num)};
 //         </div>
 //     );
-      
-    
+          
 // }
 
 const App =()=>{
