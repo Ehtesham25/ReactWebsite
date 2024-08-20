@@ -16,11 +16,7 @@ import React, {useState } from "react";
 
 const App =()=>{
 
-//    const [count, SetCount]= useState(0);
-//    const HanldeFunc =()=>
-//    {
-//        SetCount(count+1);
-//    }
+
 
 
      const[date, SetCount]= useState(123);
