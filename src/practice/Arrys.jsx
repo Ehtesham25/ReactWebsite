@@ -1,4 +1,3 @@
-
 const Arrys =()=>
 {  
         const arr =["C#","Asp.net","MVC","Java","Bootstrap"];
