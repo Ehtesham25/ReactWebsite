@@ -1,4 +1,4 @@
-import react from "react";
+
 import sdata from "../practice/sdata";
 
 const Netflix =()=>{
