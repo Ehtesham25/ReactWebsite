@@ -1,4 +1,3 @@
-
 import sdata from "../practice/sdata";
 
 const Netflix =()=>{
