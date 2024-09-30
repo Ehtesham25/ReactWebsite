@@ -4,7 +4,6 @@ const Challenges =()=>{
    const [Count, setCount] = useState(0);
 
 const inrecmentFunc =()=>{
-
     setCount(Count+1);
 }
 
