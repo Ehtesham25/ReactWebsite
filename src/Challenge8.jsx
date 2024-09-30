@@ -12,7 +12,7 @@ const DecrementFunc =()=>{
     {
         setCount(Count-1);
     }
-    else{
+    else {
         setCount(0);
         alert("Sorry, Zero limit reached!!!");
     }
