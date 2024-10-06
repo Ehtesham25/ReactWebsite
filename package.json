@@ -1,6 +1,6 @@
 {
   "homepage": "http://Ehtesham25.github.io/ReactWebsite",
-  "name": "myfirstproject",
+  "name": "myfirstproject", 
   "version": "0.1.0",
   "private": true, 
   "dependencies": {
