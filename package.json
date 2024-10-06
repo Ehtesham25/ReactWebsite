@@ -2,7 +2,7 @@
   "homepage": "http://Ehtesham25.github.io/ReactWebsite",
   "name": "myfirstproject",
   "version": "0.1.0",
-  "private": true,
+  "private": true, 
   "dependencies": {
     "@material-ui/core": "^4.11.0",
     "@material-ui/icons": "^4.9.1",
