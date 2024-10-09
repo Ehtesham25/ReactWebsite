@@ -3,6 +3,7 @@ import extra from "../src/Images/extra curricular.jpg";
 import first2 from "../src/Images/first2.jpg";
 import things from "../src/Images/stranger things.jpg";
 import diaries from "../src/Images/vempier diaries.jpg";
+
 const Sdata=[
     {
         sname:'DARK',
