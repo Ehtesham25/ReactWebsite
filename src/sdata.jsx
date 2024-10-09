@@ -32,4 +32,5 @@ const Sdata =[
         imgsrc:diaries
     }
 ]
+
 export default Sdata;
