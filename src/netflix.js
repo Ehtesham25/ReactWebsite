@@ -1,4 +1,4 @@
-import { render } from "@testing-lib
+
 
  const NetflixFunction =()=>{
     render()
