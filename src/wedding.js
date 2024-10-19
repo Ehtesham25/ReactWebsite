@@ -1,6 +1,5 @@
 
 
-
 class Greeting extends react.Component{
     render(){
        var wedingcard = new Date().getHours();
