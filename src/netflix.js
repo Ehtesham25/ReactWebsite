@@ -1,4 +1,5 @@
 const NetflixFunction =()=>{
+    
     render()
     {
         const fname='Ehtesham ul haq';
