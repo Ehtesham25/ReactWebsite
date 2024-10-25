@@ -30,3 +30,4 @@ class Greeting extends react.Component{
     }
 }
 export default Greeting;
+
