@@ -9,6 +9,7 @@ var GetDate= new Date().toLocaleTimeString()
     setDate(GetDate);
 
  }
+ 
 setInterval(DateFunc, 1000);
 
 return(
