@@ -8,7 +8,6 @@ const App =()=>
     });
 
    const ChangeEventFunc =(e)=>{
-     
     var value= e.target.value;
     var name= e.target.name;
     console.log(name);
