@@ -2,7 +2,7 @@ import { render } from "@testing-library/react";
 import React, {useState } from "react";
 
 // function App (){
-//     var list=['javascript','C#','ASP','HTML'];
+//     var list=['javascript','C#','ASP','HTM
 //     let [first, second, third, fourth]= list;
 //     var num= console.log(first,second,third,fourth); 
 //     return (
