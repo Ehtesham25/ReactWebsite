@@ -3,7 +3,7 @@ import React, {useState } from "react";
 
 // function App (){
 //     var list=['javascript','C#','ASP',
-//     let [first, second, third, fourth]= list;
+//     let [first, second,third, fourth]= list;
 //     var num= console.log(firstsecond,third,fourth); 
 //     return (
 //         <div>
