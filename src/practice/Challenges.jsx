@@ -19,8 +19,6 @@ import React,{useState} from "react";
              mesage="Good night";
         }
         
-    
-
     // challenge no 6 get date and time on button click..
     
     const getDate = new Date().toLocaleTimeString();
