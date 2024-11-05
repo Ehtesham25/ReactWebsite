@@ -7,7 +7,7 @@ import React, {useState } from "react";
 //     var num= console.log(firstsecond,third,fourth); 
 //     return (
 //         <div>
-//            {console.log(num)};
+//            {co
 //   
 //     );
           
