@@ -6,7 +6,7 @@ import Services from "../Website/Services";
 import Home from "../Website/Home";
 import NavBar from "../Website/NavBar";
 import Footer from "../Website/Footer";
-
+ 
 const App = ()=>{ 
 return(
     <>
