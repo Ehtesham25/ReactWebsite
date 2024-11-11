@@ -8,7 +8,7 @@ import NavBar from "../Website/NavBar";
 import Footer from "../Website/Footer";
  
 const App = ()=> { 
-return(
+return (
     <>
     <BrowserRouter>
     <NavBar/>
