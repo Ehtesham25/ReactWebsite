@@ -7,7 +7,7 @@ import Home from "../Website/Home";
 import NavBar from "../Website/NavBar";
 import Footer from "../Website/Footer";
  
-const App = ()=>{ 
+const App = ()=> { 
 return(
     <>
     <BrowserRouter>
