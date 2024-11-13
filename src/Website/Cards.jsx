@@ -12,7 +12,6 @@ const Cards = (props)=>{
     <NavLink to="#" class="btn btn-primary">Go somewhere</NavLink>
      </div>
 </div>
-
           </div>
         </>
     );
