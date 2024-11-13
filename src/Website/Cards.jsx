@@ -3,7 +3,6 @@ import { NavLink } from "react-router-dom";
 const Cards = (props)=>{
     return(
         <>
-       
           <div className="col-md-4 mx-auto col-10">
           <div class="card" >
         <img src={props.imgsrc} class="card-img-top" alt="failed to load"/>
