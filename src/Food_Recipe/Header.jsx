@@ -1,7 +1,6 @@
 import FastfoodIcon from '@material-ui/icons/Fastfood';
 
 const Header =(props)=>{
-
     return(
         <>
         
