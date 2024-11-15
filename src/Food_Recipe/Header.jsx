@@ -3,7 +3,7 @@ import FastfoodIcon from '@material-ui/icons/Fastfood';
 const Header =(props)=>{
     return(
         <>
-        
+    
           <div className="jumbotron">
           <h1 className="display-1 main_head"> <i><FastfoodIcon/></i>Food Recipe </h1>
           <div className="input-group mb-3 w-50 mx-auto">
