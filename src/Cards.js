@@ -4,7 +4,7 @@ import React from "react";
 import Sdata from "./sdata";
  
 const CardFunc = () => {
-    render()
+    render() 
     {
         function Webseries(props);
       
