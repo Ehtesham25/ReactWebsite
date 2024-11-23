@@ -4,7 +4,7 @@ const Recipe =(props)=>{
     return(
         <>
         <br/><br/>
-      
+     
         <div className="row">
         {
           props.respi.map((val, index)=>
