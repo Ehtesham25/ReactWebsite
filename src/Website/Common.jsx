@@ -1,5 +1,4 @@
 import react from "react";
-
 const Common = (props)=>{
 return(
     <>
