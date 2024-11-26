@@ -16,7 +16,6 @@ return(
             </div>
             <div className="col-lg-6 order-1 order-lg-2 header-image">
             <img src={props.imgsr} className="img-responsive img-fluid animated img-thumbnail" alt="failed to load"/>
-
             </div>
 
         </div>
