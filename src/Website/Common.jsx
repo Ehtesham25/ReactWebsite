@@ -1,4 +1,3 @@
-
 const Common = (props)=>{
 return(
     <>
