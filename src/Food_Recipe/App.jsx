@@ -7,7 +7,6 @@ import Recipe from "./Recipe_data";
 const App =()=>{
     const[search, setSearch]= useState("");
     const[Recipe, setRecipe]= useState([]);
-
     const APP_ID= '5fdb37bd';
     const APP_KEY= 'e9bcf6f49e53ec1b73b09578b10ad185';
     
