@@ -13,7 +13,7 @@ const App =()=>{
     
     const GetRecipes = async()  =>{
         const res= await axios.get(`https://api.edamam.com/search?q=${search}&app_id=${APP_ID}&app_key=${APP_KEY}`)
-            //console.log(res);
+            
             setRecipe(res.data.hits);
 
     }
