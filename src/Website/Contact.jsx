@@ -7,7 +7,6 @@ const Contact = ()=>{
         contact :'',
         email:'',
         message :''
-
     });
     const inputEventFunc =(e)=>{
         const{name, value}= e.target;
