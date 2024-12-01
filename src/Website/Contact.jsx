@@ -1,7 +1,6 @@
 import react, { useState } from "react";
 
 const Contact = ()=>{
-
     const[data, setData]= useState({
         name:'',
         city :'',
