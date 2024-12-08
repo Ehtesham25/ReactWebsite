@@ -1,7 +1,7 @@
 const Footer = ()=>{
 
     const date = new Date().getFullYear();
-    console.log(date);
+    console.log(date)
     return(
         <>
             <div className="text-center">
