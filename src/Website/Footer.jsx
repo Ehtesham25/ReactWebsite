@@ -4,7 +4,7 @@ const Footer = ()=>{
     console.log(date)
     return(
         <>
-            <div className="text-center">
+        <div className="text-center">
                 <h6 style={{fontFamily:'Calibri Light'}}>All right reserved &#169; {date}</h6>
             </div>
         </>
