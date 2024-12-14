@@ -5,7 +5,6 @@ import Common from "../Website/Common";
 const Home = ()=>{
 return(
      <>
-   
     <Common text="Grow Your Business with " imgsr={homePic}/>
     </>
 
