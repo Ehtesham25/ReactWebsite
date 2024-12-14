@@ -7,7 +7,6 @@ return(
      <>
     <Common text="Grow Your Business with " imgsr={homePic}/>
     </>
-
 )
 }
 export default Home;
