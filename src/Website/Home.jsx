@@ -1,4 +1,4 @@
-import react from "react";
+
 import homePic from "../Website/images/home.jpg";
 import Common from "../Website/Common";
 
