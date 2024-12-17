@@ -1,4 +1,4 @@
-import react from "react";
+
 import { NavLink } from "react-router-dom";
 import comsats from "../Website/images/comsats.jpg";
 
