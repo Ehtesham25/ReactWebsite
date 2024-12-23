@@ -10,7 +10,6 @@ return(
         <nav className="navbar  navbar-expand-lg navbar-light bg-light">
         <img style={{width:'140px'}} className="img-responsive mt-4 img-fluid" src={comsats}/>
             {/* <a className="navbar-brand" href="#">{comsats}</a> */}
- 
   <button  className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarSupportedContent" >
     <span className="navbar-toggler-icon"></span>
   </button>
