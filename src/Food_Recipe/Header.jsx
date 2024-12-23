@@ -1,6 +1,6 @@
 import FastfoodIcon from '@material-ui/icons/Fastfood';
  
-const Header =(props)=>{
+const Header = (props)=>{
     return(
         <>
           <div className="jumbotron">
