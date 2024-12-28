@@ -2,7 +2,7 @@ import { NavLink } from "react-router-dom";
 
 import comsats from "../Website/images/comsats.jpg";
 
-const NavBar =()=>{
+const NavBar =()=> {
 return(
     <>
     <div className="container-fluid">
