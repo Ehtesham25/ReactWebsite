@@ -5,7 +5,6 @@ import MchineL from "../Website/images/ML.jpg";
 import network from "../Website/images/network.jpg";
  import webdev from "../Website/images/webDev.jpg";
 
-
 const Sdata =[
 
     {
