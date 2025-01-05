@@ -6,7 +6,6 @@ import network from "../Website/images/network.jpg";
  import webdev from "../Website/images/webDev.jpg";
 
 const Sdata =[
-
     {
         title : "Android Developer",
         imgsrc: android
