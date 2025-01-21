@@ -3,7 +3,7 @@ import react from "react";
 import Sdata from "../Website/Sdata";
 import Cards from "../Website/Cards";
 
-const Service = ()=>{
+const Service = ()=>{ 
 return(
     <>  <div className="container-fluid mb-5">
      <h1 className="text-center">Our Services</h1>
