@@ -2,7 +2,7 @@ class Greeting extends react.Component{
     render() {
        var wedingcard = new Date().getHours();
         var strGreeting= "";
-        const cssStyle={     };
+        const cssStyle={    };
 
         if(wedingcard>=1 && wedingcard<12){
             strGreeting="Good Morning";
