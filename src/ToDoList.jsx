@@ -5,8 +5,7 @@ import ToDoApp from "./ToDoLists";
 const ToDoList =()=> {
  const[OnchangeName, setChangeName] = useState();
  const[addItem, setItem]= useState([]);
-    const OnchangeFunc=(e)=>{
-       
+    const OnchangeFunc=(e)=>{ 
         setChangeName(e.target.value);
 
     }
