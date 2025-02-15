@@ -6,7 +6,7 @@ const ToDoList =()=> {
  const[OnchangeName, setChangeName] = useState();
  const[addItem, setItem]= useState([]);
     const OnchangeFunc=(e)=>{
-       // console.log(e.targ
+       
         setChangeName(e.target.value);
 
     }
