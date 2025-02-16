@@ -7,7 +7,6 @@ const ToDoList =()=> {
  const[addItem, setItem]= useState([]);
     const OnchangeFunc=(e)=>{ 
         setChangeName(e.target.value);
-
     }
     const ItemsAddFunc =()=>{
           setItem((oldVal)=>
