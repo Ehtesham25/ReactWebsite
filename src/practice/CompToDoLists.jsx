@@ -6,7 +6,7 @@ const TodoApp =(props)=>{
             props.onselect(props.id)
            }}></button>
              <li>{props.text} </li> 
-        </>
+        </> 
     );
 }
 export default TodoApp;
