@@ -16,7 +16,6 @@ const DecrementFunc =()=>{
         setCount(0);
         alert("Sorry, Zero limit reached!!!");
     }
-    
 }
     return(
         <>
