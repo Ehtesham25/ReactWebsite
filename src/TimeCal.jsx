@@ -1,7 +1,7 @@
 import react, {useState} from "react";
 
 const App =()=>{
-var GetDate= new Date().toLocaleTimeString()
+var GetDate= new Date().toLocaleTimeString();
  const [gDate, setDate] = useState(GetDate);
 
  const DateFunc=()=> {
