@@ -1,7 +1,7 @@
 import React, { useState } from 'react'
  
 const ToDoApp =(props) =>
-{
+{ 
     return(
         <>
         <div className="toDo_style">
