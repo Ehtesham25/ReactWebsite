@@ -5,7 +5,7 @@ import Sdata from "./sdata";
   
 const CardFunc = () => {
     render() 
-    {
+    { 
         function Webseries(props);
       
         {
