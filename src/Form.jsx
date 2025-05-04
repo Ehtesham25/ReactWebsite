@@ -10,7 +10,6 @@ const App =()=>
    const ChangeEventFunc =(e)=>{
     var value= e.target.value;
     var name= e.target.name;
-   
 
     SetName((prevValue)=>{
         if(name==="lName")
