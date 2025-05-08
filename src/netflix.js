@@ -5,7 +5,7 @@ const NetflixFunction =()=>{
         const fname='Ehtesham ul haq';
         const currDate= new Date().toLocaleDateString();
         const currTime= new Date().toLocaleTimeString();
-        return(
+        return (
             <>
                 <h1>netflix Series name</h1>
                 <h3>List of 5 Best Series</h3>
