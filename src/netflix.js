@@ -3,7 +3,7 @@ const NetflixFunction =()=>{
     render()
     {
         const fname='Ehtesham ul haq';
-        const currDate= new Date().toLocaleDateString();
+        const currDate= new Date().toLocaleDateString(); 
         const currTime= new Date().toLocaleTimeString();
         return (
             <>
