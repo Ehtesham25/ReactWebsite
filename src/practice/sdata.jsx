@@ -1,5 +1,4 @@
 
-
 import Darkimg from "../practice/Images/Dark.jpg";
 import extracrl from "../practice/Images/extra curricular.jpg";
 import firstlove from "../practice/Images/first2.jpg";
