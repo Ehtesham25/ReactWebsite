@@ -12,7 +12,6 @@ class Greeting extends react.Component{
         {
             strGreeting="Good aferNoon";
             cssStyle.color ="Orange";
-        
         }
        else 
         {
