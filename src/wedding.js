@@ -3,7 +3,6 @@ class Greeting extends react.Component{
        var wedingcard = new Date().getHours();
         var strGreeting= "";
         const cssStyle={    };
-
         if(wedingcard>=1 && wedingcard<12){
             strGreeting="Good Morning";
             cssStyle.color= 'green';
