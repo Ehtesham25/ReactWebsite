@@ -18,7 +18,6 @@ class Greeting extends react.Component{
             strGreeting="Good night";
             cssStyle.color="Black";
         }
-        console.log(cssStyle.color);
         return(
             <div className='heading'>
             <h1>Hello Sir, <span style={cssStyle}> {strGreeting}</span></h1>
